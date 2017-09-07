@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <inputControl exportedWithPermissions="false"><folder>/organizations/ebuilder/organizations/asa/Input_Controls</folder><name>manufacturer</name><version>0</version><label>Manufacturer</label><creationDate>2013-08-24T22:21:35.000+02:00</creationDate><updateDate>2011-10-16T22:26:20.000+02:00</updateDate><type>4</type><mandatory>false</mandatory><readOnly>false</readOnly><visible>true</visible><query><uri>/organizations/ebuilder/organizations/asa/Queries/ManufacturerList</uri></query><queryVisibleColumn>name</queryVisibleColumn><queryValueColumn>did</queryValueColumn></inputControl>
+
+
+This is the change 2
