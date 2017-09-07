@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndiJdbcDataSource exportedWithPermissions="false"><folder>/organizations/ebuilder/organizations/asa/Data_Source</folder><name>jndi_inv_ds</name><version>2</version><label>JNDI Inv DS</label><description>JNDI Inv DS</description><creationDate>2014-01-27T07:38:27.000+01:00</creationDate><updateDate>2012-12-11T05:10:54.000+01:00</updateDate><jndiName>jdbc/inv</jndiName></jndiJdbcDataSource>

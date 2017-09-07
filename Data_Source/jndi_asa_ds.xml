@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndiJdbcDataSource exportedWithPermissions="false"><folder>/organizations/ebuilder/organizations/asa/Data_Source</folder><name>jndi_asa_ds</name><version>45</version><label>JNDI ASA DS</label><creationDate>2017-03-01T13:22:48.000+01:00</creationDate><updateDate>2013-11-04T07:46:43.000+01:00</updateDate><jndiName>jdbc/asa</jndiName></jndiJdbcDataSource>
